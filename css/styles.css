@@ -66,6 +66,7 @@ line-height: 2;
   background-color: #e0ebe8;
   height: 600px;
   position: relative;
+  width:1440px;
   padding-top: 100px;
 }
 
@@ -78,6 +79,7 @@ line-height: 2;
 }
 
 .bottom{
+  width:1440px;
    background-color:#e0ebe8;
    padding: 30px 0 20px 0;
 
